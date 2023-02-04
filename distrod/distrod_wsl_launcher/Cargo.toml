@@ -20,7 +20,7 @@ indicatif = "0.16"
 chrono = "0.4"
 scraper = "0.12"
 reqwest = { version = "0.11" }
-tokio = { version = "1.10", features = ["rt", "rt-multi-thread", "macros"] }
+tokio = { version = "1.16", features = ["rt", "rt-multi-thread", "macros"] }
 colored = "2"
 tempfile = "3"
 bytes = "1.0"
